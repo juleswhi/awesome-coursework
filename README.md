@@ -23,8 +23,7 @@ sucks and these resources may not all work in conjunction with it.
 - Using an existing UI library such as [Material Skin 2](https://github.com/DigitalAdeel/MaterialSkin2DotNet) can
 save a lot of time, and make your application look nice by default.
 
-- Write smart code. Making your code more generic ( fit more use cases ) will greatly improve your experience when implementing
-new features.
+- Write smart code. Making your code more generic will greatly improve your experience when implementing new features.
 
 - Use MVC from the beginning! Its a lot harder to sort everything into MVC after its all written.
 
