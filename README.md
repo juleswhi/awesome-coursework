@@ -31,7 +31,7 @@ new features.
 - Keep it simple, having a intuitive frontend is almost as important as having a working backend
 
 - Use proper connection strings! You don't want your application to not work on the invidulators' computer.
-To learn about relative connection strings, look at [this document]().
+To learn about relative connection strings, look at [this document](https://github.com/juleswhi/awesome-coursework/blob/main/connection_strings.md).
 
 ## Materials
 
