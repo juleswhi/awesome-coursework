@@ -48,7 +48,6 @@ Developer Tools
 - [Create Screenshots of Code](https://github.com/juleswhi/CsSnapper)
 - [Database Access Layer](https://github.com/juleswhi/DAL)
 - [Form Management](https://github.com/juleswhi/WinView)
-- [Collection Of Coursework Tools ( Don't use )](https://github.com/juleswhi/ssd-winforms-tooling)
 - [Coursework Template](https://github.com/juleswhi/ssd-coursework-template)
 
 Icons
