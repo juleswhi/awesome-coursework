@@ -23,12 +23,15 @@ sucks and these resources may not all work in conjunction with it.
 - Using an existing UI library such as [Material Skin 2](https://github.com/DigitalAdeel/MaterialSkin2DotNet) can
 save a lot of time, and make your application look nice by default.
 
-- Write smart code. Making your code more generic ( fit more use cases ) will greatly improve your experience when adding
-features in the future.
+- Write smart code. Making your code more generic ( fit more use cases ) will greatly improve your experience when implementing
+new features.
 
 - Use MVC from the beginning! Its a lot harder to sort everything into MVC after its all written.
 
 - Keep it simple, having a intuitive frontend is almost as important as having a working backend
+
+- Use proper connection strings! You don't want your application to not work on the invidulators' computer.
+To learn about relative connection strings, look at [this document]().
 
 ## Materials
 
@@ -50,6 +53,27 @@ Developer Tools
 
 Icons
 - [Lucide React Icons](https://lucide.dev/icons/)
+
+CCEA
+- [Specification](https://ccea.org.uk/downloads/docs/Specifications/GCE/GCE%20Software%20Systems%20Development%20%282016%29/GCE%20Software%20Systems%20Development%20%282016%29-specification-Standard_1.pdf)
+
+- [A21 2024 Past Paper](https://ccea.org.uk/downloads/docs/Past-Papers/cleared/GCE/GCE%20Software%20Systems%20Development%20%282016%29/2024-Summer/Standard/0/GCE-Software%20Systems%20Development-589-Summer2024-A2%201%2C%20Systems%20Approaches%20and%20Database%20Concepts-Paper.pdf)
+- [AS1 2024 Past Paper](https://ccea.org.uk/downloads/docs/Past-Papers/cleared/GCE/GCE%20Software%20Systems%20Development%20%282016%29/2024-Summer/Standard/0/GCE-Software%20Systems%20Development-589-Summer2024-AS%201%2C%20Introduction%20to%20Object%20Oriented%20Development-Paper.pdf)
+
+- [A21 2023 Past Paper](https://ccea.org.uk/downloads/docs/Past-Papers/cleared/GCE/GCE%20Software%20Systems%20Development%20%282016%29/2023-Summer/Standard/0/GCE-Software%20Systems%20Development-589-Summer2023-A2%201%2C%20Systems%20Approaches%20and%20Database%20Concepts-Paper.pdf)
+- [AS1 2023 Past Paper](https://ccea.org.uk/downloads/docs/Past-Papers/cleared/GCE/GCE%20Software%20Systems%20Development%20%282016%29/2023-Summer/Standard/0/GCE-Software%20Systems%20Development-589-Summer2023-AS%201%2C%20Introduction%20to%20Object%20Oriented%20Development-Paper.pdf)
+
+- [A21 2022 Past Paper](https://ccea.org.uk/downloads/docs/Past-Papers/cleared/GCE/GCE%20Software%20Systems%20Development%20%282016%29/2022-Summer/Standard/0/GCE-Software%20Systems%20Development-589-Summer2022-A2%201%2C%20Systems%20Approaches%20and%20Database%20Concepts-Paper.pdf)
+- [AS1 2022 Past Paper](https://ccea.org.uk/downloads/docs/Past-Papers/cleared/GCE/GCE%20Software%20Systems%20Development%20%282016%29/2022-Summer/Standard/0/GCE-Software%20Systems%20Development-589-Summer2022-AS%201%2C%20Introduction%20to%20Object%20Oriented%20Development-MS.pdf)
+
+- [A21 2021 Past Paper](https://ccea.org.uk/downloads/docs/Past-Papers/cleared/GCE/GCE%20Software%20Systems%20Development%20%282016%29/2021-Summer/Standard/0/GCE-Software%20Systems%20Development-589-Summer2021-A2%201%2C%20Systems%20Approaches%20and%20Database%20Concepts-Paper.pdf)
+- [AS1 2021 Past Paper](https://ccea.org.uk/downloads/docs/Past-Papers/cleared/GCE/GCE%20Software%20Systems%20Development%20%282016%29/2021-Summer/Standard/0/GCE-Software%20Systems%20Development-589-Summer2021-AS%201%2C%20Introduction%20to%20Object%20Oriented%20Development-Paper.pdf)
+
+- [A21 2019 Past Paper](https://ccea.org.uk/downloads/docs/Past-Papers/cleared/GCE/GCE%20Software%20Systems%20Development%20%282016%29/2019-Summer/Standard/0/GCE-Software%20Systems%20Development-589-Summer2019-A2%201%2C%20Systems%20Approaches%20and%20Database%20Concepts-Paper.pdf)
+- [AS1 2019 Past Paper](https://ccea.org.uk/downloads/docs/Past-Papers/cleared/GCE/GCE%20Software%20Systems%20Development%20%282016%29/2019-Summer/Standard/0/GCE-Software%20Systems%20Development-589-Summer2019-AS%201%2C%20Introduction%20to%20Object%20Oriented%20Development-Paper.pdf)
+
+- [A21 2018 Past Paper](https://ccea.org.uk/downloads/docs/Past-Papers/cleared/GCE/GCE%20Software%20Systems%20Development%20%282016%29/2018-Summer/Standard/0/GCE-Software%20Systems%20Development-589-Summer2018-A2%201%2C%20Systems%20Approaches%20and%20Database%20Concepts-Paper.pdf)
+- [AS1 2018 Past Paper](https://ccea.org.uk/downloads/docs/Past-Papers/cleared/GCE/GCE%20Software%20Systems%20Development%20%282016%29/2018-Summer/Standard/0/GCE-Software%20Systems%20Development-589-Summer2018-AS%201%2C%20Introduction%20to%20Object%20Oriented%20Development-Paper.pdf)
 
 Exemplar Coursework - AS
 - [Chess Quiz](https://github.com/juleswhi/Coursework24)
