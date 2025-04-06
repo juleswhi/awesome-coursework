@@ -10,7 +10,7 @@ However, they require a bit of setup to get working properly.
 First, you need to create an `App.config` file in the root of your solution. Once created, paste the following code into it.
 This allows you to access the following string from anywhere in your program.
 
-Make sure to change the `path\to\your\database.mdf` to the path from the root to your database.
+Make sure to change the `path\to\your\database.mdf` to the path ( from the root ) to your database.
 
 ```xml
 <?xml version="1.0" encoding="utf-8" ?>
